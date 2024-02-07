@@ -11,8 +11,8 @@
 
 <div>
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorbarros01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0c132e"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=tokyonight&bg_color=0c132e"/>
+<img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorbarros01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0c132e"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=tokyonight&bg_color=0c132e"/>
 
 </div>
 
