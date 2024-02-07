@@ -2,17 +2,17 @@
 
 ## Prazer, eu sou Victor Barros! 😁
 
-### - 🎮Estou atualmente cursando Jogos Digitais na PUC MG.
-### - 🎯Aprendendo novas tecnologias e métodos.
-### - 🌐Sempre buscando conhecimento e evolução!
+#### - 🎮Estou atualmente cursando Jogos Digitais na PUC MG.
+#### - 🎯Aprendendo novas tecnologias e métodos.
+#### - 🌐Sempre buscando conhecimento e evolução!
 
 [![EmailBADGE](https://img.shields.io/badge/Gmail-520101?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.emanuel.bb@gmail.com)
 [![LinkedinBADGE](https://img.shields.io/badge/linkedin-0c132e?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-barros-4b0613222/)
 
 <div>
 
-<img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorbarros01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0c132e"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=tokyonight&bg_color=0c132e"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorbarros01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0c132e"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=tokyonight&bg_color=0c132e"/>
 
 </div>
 
