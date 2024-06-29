@@ -2,7 +2,6 @@
 
 ## Prazer, eu sou Victor Barros! 😁
 
-#### - 🎮Estou atualmente cursando Jogos Digitais na PUC MG.
 #### - 🎯Aprendendo novas tecnologias e métodos.
 #### - 🌐Sempre buscando conhecimento e evolução!
 
