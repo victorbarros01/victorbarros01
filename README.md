@@ -10,12 +10,13 @@
 
 <div>
 
-<img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorbarros01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0c132e"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=victorbarros01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0c132e"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=tokyonight&bg_color=0c132e"/>
 
 </div>
 
 ### Linguagens e Ferramentas
+
 <div>
 <img alt="CS" src="https://img.shields.io/badge/C%23-03c2fc?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
