@@ -2,8 +2,7 @@
 
 ## Prazer, eu sou Victor Barros! 😁
 
-#### - 🎯Aprendendo novas tecnologias e métodos.
-#### - 🌐Sempre buscando conhecimento e evolução!
+#### - 🎯Sempre buscando aprender novas tecnologias.
 
 [![EmailBADGE](https://img.shields.io/badge/Gmail-520101?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.emanuel.bb@gmail.com)
 [![LinkedinBADGE](https://img.shields.io/badge/linkedin-0c132e?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-barros-4b0613222/)
