@@ -32,12 +32,13 @@
 <br>
 
 <img height="40px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img height="50px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img height="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img height="50px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img height="60px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img height="70px" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 
 <br>
 
+#
 <!-- # My Stats🔥
 
 <img width="458px" height="200px" src="https://github-readme-stats.vercel.app/api?username=victorbarros01&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Victor's Github Stats">
