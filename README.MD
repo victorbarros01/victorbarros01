@@ -39,10 +39,10 @@
 <br>
 
 #
-<!-- # My Stats🔥
+# My Stats🔥
 
 <img width="458px" height="200px" src="https://github-readme-stats.vercel.app/api?username=victorbarros01&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Victor's Github Stats">
 
-<img width="500px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats" alt="Victor's Github Top langs"> -->
+<img width="500px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats" alt="Victor's Github Top langs">
 
 </div>
