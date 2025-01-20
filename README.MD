@@ -38,7 +38,7 @@
 
 <br>
 
-#
+
 # My Stats🔥
 
 <img width="458px" height="200px" src="https://github-readme-stats.vercel.app/api?username=victorbarros01&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Victor's Github Stats">
