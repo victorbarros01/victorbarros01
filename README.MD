@@ -9,7 +9,6 @@
     <img width="150px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<br>
 
 # About Me🙋
 
@@ -17,7 +16,6 @@
 
 ### I like learning and practicing new technologies. 💻
 
-<br>
 <!--
 # Tools and Langs🔧
 
@@ -36,11 +34,10 @@
 <br> 
 -->
 
-
 # My Stats🔥
 
-<img width="250px" height="200px" src="https://github-readme-stats.vercel.app/api?username=victorbarros01&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Victor's Github Stats">
+<img width="350px" height="300px" src="https://github-readme-stats.vercel.app/api?username=victorbarros01&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Victor's Github Stats">
 
-<img width="250px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats" alt="Victor's Github Top langs">
+<img width="300px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats" alt="Victor's Github Top langs">
 
 </div>
