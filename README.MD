@@ -5,12 +5,9 @@
 
 <br>
 
-<a  href="https://www.linkedin.com/in/victor-barros-4b0613222/">
+<a href="https://www.linkedin.com/in/victor-barros-4b0613222/">
     <img width="150px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:victoremanuel6778@gmail.com">
-    <img width="120px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+</a>
 
 <br>
 
