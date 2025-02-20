@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 > Hi, i'm Victor<br> A Web Developer in making
+<h1 > Hi, i'm Victor<br>
 </h1>
 
 <br>
