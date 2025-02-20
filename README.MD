@@ -14,7 +14,6 @@
 
 ### Student of the second period of Systems Analysis and Development at PUCMG. 📖
 
-### I like learning and practicing new technologies. 💻
 
 <!--
 # Tools and Langs🔧
