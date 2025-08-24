@@ -31,7 +31,7 @@
 <img height="70px" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 
 <br> 
--->
+
 
 # My Stats🔥
 
@@ -40,3 +40,4 @@
 <img width="300px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarros01&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats" alt="Victor's Github Top langs">
 
 </div>
+-->
